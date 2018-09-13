@@ -4,7 +4,7 @@ public class CalcGuapi {
 
 	public static void main(String[] args) {
 //		guosoufu();
-//		syys();asdf
+//		syys();asdfsadf
 		lichi();
 	}
 	
